@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "graf-adjacency-list", "..\..\..\..\Desktop\aisd-graph-adjacency-list-master\graf-adjacency-list.csproj", "{C798E49B-BF62-4546-9BF9-02673454694C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImplementationExample", "ImplementationExample\ImplementationExample.csproj", "{B0AF0726-F9E7-45BC-9501-EC74559FE59C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C798E49B-BF62-4546-9BF9-02673454694C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C798E49B-BF62-4546-9BF9-02673454694C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C798E49B-BF62-4546-9BF9-02673454694C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C798E49B-BF62-4546-9BF9-02673454694C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B0AF0726-F9E7-45BC-9501-EC74559FE59C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0AF0726-F9E7-45BC-9501-EC74559FE59C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0AF0726-F9E7-45BC-9501-EC74559FE59C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0AF0726-F9E7-45BC-9501-EC74559FE59C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {65769CD3-7184-409B-BB77-0695706C5B66}
+	EndGlobalSection
+EndGlobal
